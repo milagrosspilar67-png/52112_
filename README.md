@@ -49,7 +49,9 @@ La configuración debe quedar del siguiente modo.
  -----INSTALACIÓN ----------
                                          
    1. Clona este repositorio:
-                               ------ ¿Cómo hacerlo? ----------
+
+      ------ ¿Cómo hacerlo? ----------
+      
 Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , Git).
 
      Forma A: 
