@@ -22,9 +22,13 @@ Para verificar que este instalado todo de forma correcta, puedes ejecutar los si
  <img width="386" height="312" alt="image" src="https://github.com/user-attachments/assets/195c5784-c6d7-414f-a648-d4c6995edacf" />
 
  Ingresar en el cmd
+ 
  . node –v (donde nos mostrá la versión) 
+ 
  . npm –v (donde nos mostrá la versión) 
+ 
  . code –v (donde nos mostrá la versión) 
+ 
  . git –v (donde nos mostrá la versión) 
  
  <img width="530" height="294" alt="image" src="https://github.com/user-attachments/assets/ac33f5c7-1563-4b1b-8726-58df26c9e2e0" />
