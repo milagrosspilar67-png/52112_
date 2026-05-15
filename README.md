@@ -35,16 +35,40 @@ Para verificar que este instalado todo de forma correcta, puedes ejecutar los si
  
 <img width="548" height="287" alt="image" src="https://github.com/user-attachments/assets/dd340f57-b536-4039-afb3-d8b4156b4d22" />
 
+La configuración debe quedar del siguiente modo.
+ "antlr4.generation": {
+ "alternativeJar": "antlr-4.13.2-complete.jar",
+ "mode": "external",
+ "listeners": true,
+ "visitors": true,
+ "language": "JavaScript",
+ "outputDir": "./generated
  
+ Guarda el archivo de configuración antes de continuar (CTRL+S)
+                                      INSTALACION 
+                                         
+   1. Clona este repositorio:
+                                ¿Cómo hacerlo?
+Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , Git).
+
+     Forma A: 
+                   1) Entraremos a la aplicación Visual studio Code 
+                   2) Ve al menú y abrir una nueva terminal en Visual studio Code
+           <img width="1240" height="727" alt="image" src="https://github.com/user-attachments/assets/2ecd0876-0fe3-4a45-9487-7bae6616045b" />
+                   3) Ingresar en la terminal : git clone 
+
+            IMAGEN
+                   4) Deberias poder ver la carpeta "Mianalizador"
 
 
-        Luego
+    Forma B:
+                  1) Abre una ventana de comandos (Cmd, PowerShell, o terminal en Linux).
+                  2) Clona el proyecto desde el repositorio GitHub utilizando el siguiente comando:
+                  
+            Si el proyecto se clonó correctamente deberías ver el mensaje “done” en tu salida
 
-                                        INSTALACION 
-        1. Clona este repositorio:
+    
 
-        ¿Cómo hacerlo? 
-        Forma A: Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , Git).
-        Entraremos a la aplicación Visual studio Code
+
   
                                 
