@@ -74,7 +74,13 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
                   
             Si el proyecto se clonó correctamente deberías ver el mensaje “done” en tu salida
 
-    
+
+----- INSTRUCCIONES DE USO --------
+
+     Forma A: 
+                 1) Abre una ventana de comandos (Cmd, PowerShell o terminal en Linux)
+
+                 2)Ingresar a la carpeta 
 
 
   
