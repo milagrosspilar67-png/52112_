@@ -21,6 +21,22 @@ Para verificar que este instalado todo de forma correcta, puedes ejecutar los si
 
  <img width="386" height="312" alt="image" src="https://github.com/user-attachments/assets/195c5784-c6d7-414f-a648-d4c6995edacf" />
 
+ Ingresar en el cmd
+ . node –v (donde nos mostrá la versión) 
+ . npm –v (donde nos mostrá la versión) 
+ . code –v (donde nos mostrá la versión) 
+ . git –v (donde nos mostrá la versión) 
+ 
+ <img width="530" height="294" alt="image" src="https://github.com/user-attachments/assets/ac33f5c7-1563-4b1b-8726-58df26c9e2e0" />
+
+ Luego, en Vsco code instalar una extension de "ANTLR4 grammar syntax support"
+ 
+ Configurar las preferencias de generación de código de ANTLR: ve al menú Archivo/Preferencias/Configuración ( CTL + ,) y busca las preferencias de ANTLR. Baja hasta la sección Antlr4:Generation y edita settings.json. 
+ 
+<img width="548" height="287" alt="image" src="https://github.com/user-attachments/assets/dd340f57-b536-4039-afb3-d8b4156b4d22" />
+
+ 
+
 
         Luego
 
