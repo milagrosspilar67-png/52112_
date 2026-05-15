@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/459f8694-bf82-48e3-a40f-5880da9136ca" />README.md 
+/>README.md 
 
 En esta oportunidad veremos como actua un analizador, utilizando cierta gramatica asignada por profesores de la Universidad Tecnologica Nacional.
 A continuación:
@@ -11,10 +11,7 @@ A continuación:
         3.Descargar e instalar VS Code (IDE Visual Studio Code) desde la página oficial https://code.visualstudio.com/. VS Code será el entorno de desarrollo que utilizaremos para trabajar sobre el código de nuestro caso.
         IMPORTANTE: durante la instalación de VS Code, habilita la opción "Add to PATH" para que puedas abrir VS Code desde una terminal con code.
         4.Descargar e instalar Git desde la página oficial https://git-scm.com/downloads. GIT es el controlador de versiones de código que necesitarás para obtener el proyecto ejemplo.
-
-        Para verificar que este instalado todo de forma correcta, en el teclado insertaremos WINDOWS + R 
-        
-
+        Para verificar que este instalado todo de forma correcta, en el teclado insertaremos WINDOWS + R
 
         Luego
 
