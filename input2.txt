@@ -1,0 +1,2 @@
+regla 'entrada_2' {cuando intentosFallidos > 2 entonces agregarIPAListaNegra};
+accion 'agregarIPAListaNegra' {};

@@ -1,0 +1,2 @@
+
+regla 'n1' {cuando accesonointenta < 8 entonces};

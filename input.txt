@@ -1,0 +1,2 @@
+regla 'entrada1'{cuando intentoAccesoFueraHorario entonces agregarUsuarioAListaNegra};
+accion 'agregarUsuarioAListaNegra' {};
