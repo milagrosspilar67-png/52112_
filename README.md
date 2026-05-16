@@ -73,6 +73,12 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
                     2) Ve al menú y abrir una nueva terminal en Visual studio Code
                     3) Colocar en la terminal "node index.js input ... que nosotros elijamos ( input1.correcto.txt, input2.correcto.txt, input3.incorrecto.txt, input4.incorrecto.txt)
 <img width="537" height="296" alt="image" src="https://github.com/user-attachments/assets/499d252a-5813-4457-8507-8e956ba8c5e0" />
+                    
+                    -------- EJECUCIÓN --------
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ccc686f6-d577-4e43-95a7-08c363e56b70" />
+
+                    
 
 
 
