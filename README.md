@@ -4,11 +4,11 @@ En esta oportunidad veremos como actua un analizador, utilizando cierta gramatic
 
   ------A continuación-----
 
-1.REQUERIMIENTOS PREVIOS A SU INSTALACIÓN
+1.REQUERIMIENTOS PREVIOS A SU INSTALACIÓN.
 
-2.INSTALACIÓN 
+2.INSTALACIÓN.
 
-3.INSTRUCCIONES DE USO
+3.INSTRUCCIONES DE USO.
 
 -------REQUERIMIENTOS PREVIOS A SU INSTALACIÓN -------
                               
@@ -61,13 +61,19 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
 
                    3) Ingresar en la terminal : git clone https://github.com/milagrosspilar67-png/52112_.git
 
+<img width="449" height="305" alt="image" src="https://github.com/user-attachments/assets/f8d1af85-4582-40dc-ad71-ff0ee55117ec" />
+
+
                    4) Se clona, por lo tanto nos abre devuelta el Vsco code y deberias poder ver la carpeta "Mianalizador" que se abre al clonar el repositorio. 
+  
+  <img width="449" height="317" alt="image" src="https://github.com/user-attachments/assets/47697fad-2270-427c-829a-0c8ba93a0c52" />
+
 
 
 ----- INSTRUCCIONES DE USO --------
 
      Veremos como ejecutar el programa: 
-                    1)Tener abierta la carpeta clonada anteriormente "Mianalizador"  en Vsco code 
+                    1)Tener abierta la carpeta clonada anteriormente "Mianalizador"  en Vsco code. 
                     2) Ve al menú y abrir una nueva terminal en Visual studio Code
                     3) Colocar en la terminal "node index.js input ... que nosotros elijamos ( input1.correcto.txt, input2.correcto.txt, input3.incorrecto.txt, input4.incorrecto.txt)
 <img width="537" height="296" alt="image" src="https://github.com/user-attachments/assets/499d252a-5813-4457-8507-8e956ba8c5e0" />
