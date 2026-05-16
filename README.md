@@ -76,7 +76,8 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
                     
                     -------- EJECUCIÓN --------
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ccc686f6-d577-4e43-95a7-08c363e56b70" />
+<img width="530" height="291" alt="image" src="https://github.com/user-attachments/assets/da8dc724-fa20-4f9a-85ac-f0ac443a144f" />
+
 
                     
 
