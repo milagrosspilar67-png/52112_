@@ -39,7 +39,7 @@ b.2)Configurar las preferencias de generación de código de ANTLR: ve al menú 
 
 <img width="548" height="287" alt="image" src="https://github.com/user-attachments/assets/956b9c47-d691-46e9-ae86-5e0ca48f8b0d" />
 
-Cambiar la configuración debe quedar del siguiente modo:
+b.3)Cambiar la configuración debe quedar del siguiente modo:
 
  "antlr4.generation": {
  "alternativeJar": "antlr-4.13.2-complete.jar",
