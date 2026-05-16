@@ -32,7 +32,7 @@ git -v
 
  
 
-b)Luego, en Visual studio code instalar una extensión de "ANTLR4 grammar syntax support".
+b)Luego, abrir Visual studio code e instalar una extensión de "ANTLR4 grammar syntax support".
 
  - Instala la extensión de ANTLR4 para Visual Studio Code: ve al menú Ver/Extensiones (CTRL+ SHIFT + X), busca la extensión ANTLR4 grammar syntax support , selecciónala y dale clic a Instalar.
 
@@ -55,7 +55,7 @@ b.3)Cambiar la configuración del "ANTLR4 grammar syntax support", quedando así
  
 IMPORTANTE: Guarda el archivo de configuración antes de continuar (CTRL+S).
 
---------INSTALACIÓN -------------
+2--------INSTALACIÓN -------------
                                          
    1. Clona este repositorio:
 
@@ -73,13 +73,13 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
 <img width="449" height="305" alt="image" src="https://github.com/user-attachments/assets/f8d1af85-4582-40dc-ad71-ff0ee55117ec" />
 
 
-                   4) Automaticamente se clona, por lo tanto nos abre de vuelta el Visual Studio code y deberias poder ver la carpeta "Mianalizador" que se abre al clonar el repositorio. 
+                   4) Automaticamente se clona, por lo tanto nos abre de vuelta el Visual Studio code con la carpeta "Mianalizador" .
   
   <img width="449" height="317" alt="image" src="https://github.com/user-attachments/assets/47697fad-2270-427c-829a-0c8ba93a0c52" />
 
 
 
------ INSTRUCCIONES DE USO --------
+3----- INSTRUCCIONES DE USO --------
 
      Veremos como ejecutarlo:
                     1)Tener abierta la carpeta clonada anteriormente "Mianalizador"  en Visual Studio code. 
