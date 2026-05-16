@@ -34,7 +34,7 @@ b.1.Configurar las preferencias de generación de código de ANTLR: ve al menú 
 
 <img width="548" height="287" alt="image" src="https://github.com/user-attachments/assets/956b9c47-d691-46e9-ae86-5e0ca48f8b0d" />
 
-.La configuración debe quedar del siguiente modo.
+Cambiar la configuración debe quedar del siguiente modo:
 
  "antlr4.generation": {
  "alternativeJar": "antlr-4.13.2-complete.jar",
@@ -75,12 +75,20 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
      Veremos como ejecutar el programa: 
                     1)Tener abierta la carpeta clonada anteriormente "Mianalizador"  en Vsco code. 
                     2) Ve al menú y abrir una nueva terminal en Visual studio Code
-                    3) Colocar en la terminal "node index.js input ... que nosotros elijamos ( input1.correcto.txt, input2.correcto.txt, input3.incorrecto.txt, input4.incorrecto.txt)
+                    3) Colocar en la terminal node index.js input1.correcto.txt 
 <img width="537" height="296" alt="image" src="https://github.com/user-attachments/assets/499d252a-5813-4457-8507-8e956ba8c5e0" />
+
+  En ese caso yo elegi el input1.correcto.txt pero puedo elegir ver:input2.correcto.txt, input3.incorrecto.txt, input4.incorrecto.txt). Por lo que sólo deberia cambiar el nombre del input.txt
                     
-                    -------- EJECUCIÓN --------
+                    -------- EJECUCIÓN CON input1.correcto.txt --------
 
 <img width="530" height="291" alt="image" src="https://github.com/user-attachments/assets/da8dc724-fa20-4f9a-85ac-f0ac443a144f" />
+
+                    ------EJECUCION CON input3.incorrecto.txt -------
+
+<img width="507" height="288" alt="image" src="https://github.com/user-attachments/assets/fc0dbfab-362b-4815-b8c7-6329a9cad51d" />
+
+
 
 
                     
