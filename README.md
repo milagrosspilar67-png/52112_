@@ -61,7 +61,7 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
 
                    3) Ingresar en la terminal : git clone https://github.com/milagrosspilar67-png/52112_.git
 
-                   4) Se clona, por lo tanto ya deberias poder ver la carpeta "Mianalizador" que se abre al clonar el repositorio. 
+                   4) Se clona, por lo tanto nos abre devuelta el Vsco code y deberias poder ver la carpeta "Mianalizador" que se abre al clonar el repositorio. 
 
 
 ----- INSTRUCCIONES DE USO --------
