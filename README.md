@@ -83,7 +83,7 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
 
      Veremos como ejecutarlo:
                     1)Tener abierta la carpeta clonada anteriormente "Mianalizador"  en Visual Studio code. 
-                    2) Ve al menú y abrir una nueva terminal en Visual studio Code
+                    2) Ve al menú y abrir una nueva terminal en Visual studio Code (Ctrl + Mayús + ñ).
                     3) Colocar en la terminal node index.js input1.correcto.txt 
 <img width="537" height="296" alt="image" src="https://github.com/user-attachments/assets/499d252a-5813-4457-8507-8e956ba8c5e0" />
 
