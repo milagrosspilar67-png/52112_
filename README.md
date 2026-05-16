@@ -27,16 +27,15 @@ a) Para verificar que este instalado todo de forma correcta, puedes ejecutar los
 <img width="392" height="215" alt="image" src="https://github.com/user-attachments/assets/77ea0417-5e72-4007-a685-eeb5b0d8806d" />
 
 
-
-
 b)Luego, en Vsco code instalar una extension de "ANTLR4 grammar syntax support
 
-1)Ir a extensiones de Vsco Code (Ctlr + Mayús + x)
+      1)Ir a extensiones de Vsco Code (Ctlr + Mayús + x).
+      2) E instalar .
 
-<img width="249" height="140" alt="image" src="https://github.com/user-attachments/assets/d11b7e73-76fe-4ac3-914a-f76ce6ec0387" />
+<img width="503" height="282" alt="image" src="https://github.com/user-attachments/assets/3d2e88cb-0ab1-4b64-8d07-6306718bdd76" />
 
  
-b.2.Configurar las preferencias de generación de código de ANTLR: ve al menú Archivo/Preferencias/Configuración ( CTL + ,) y busca las preferencias de ANTLR. Baja hasta la sección Antlr4:Generation y edita settings.json. 
+b.2)Configurar las preferencias de generación de código de ANTLR: ve al menú Archivo/Preferencias/Configuración ( CTL + ,) y busca las preferencias de ANTLR. Baja hasta la sección Antlr4:Generation y edita settings.json. 
 
 <img width="548" height="287" alt="image" src="https://github.com/user-attachments/assets/956b9c47-d691-46e9-ae86-5e0ca48f8b0d" />
 
