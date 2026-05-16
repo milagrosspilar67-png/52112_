@@ -23,7 +23,7 @@ a) Para verificar que este instalado todo de forma correcta, puedes ejecutar los
 
  -----INGRENSAMOS EN EL CMD----
  
- -------  node - v   ----------
+ -------  node - v 
           npm -v 
           code -v 
           git -v 
@@ -32,9 +32,10 @@ a) Para verificar que este instalado todo de forma correcta, puedes ejecutar los
 
  
 
-b)Luego, en Vsco code instalar una extension de "ANTLR4 grammar syntax support
+b)Luego, en Vsco code instalar una extension de "ANTLR4 grammar syntax support"
 
       1)Ir a extensiones de Vsco Code (Ctlr + Mayús + x).
+      2) Buscar "ANTLR4 grammar syntax support"
       2) E instalar .
 
 <img width="503" height="282" alt="image" src="https://github.com/user-attachments/assets/3d2e88cb-0ab1-4b64-8d07-6306718bdd76" />
