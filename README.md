@@ -61,17 +61,19 @@ Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , G
         
 <img width="1240" height="727" alt="image" src="https://github.com/user-attachments/assets/52c5c1b2-003a-42fd-9c86-05abccb4955c" />
 
-                   3) Ingresar en la terminal : git clone 
+                   3) Ingresar en la terminal : git clone https://github.com/milagrosspilar67-png/52112_.git
 
-                   4) Deberias poder ver la carpeta "Mianalizador"
+                   4) Se clona, por lo tanto ya deberiaspoder ver la carpeta "Mianalizador"
 
 
 ----- INSTRUCCIONES DE USO --------
 
-     Forma A: 
-                 1) Abre una ventana de comandos (Cmd, PowerShell o terminal en Linux)
+     Veremos como ejecutar el programa: 
+                    1)Tener abierta la carpeta clonada anteriormente "Mianalizador"  en Vsco code 
+                    2) Ve al menú y abrir una nueva terminal en Visual studio Code
+                    3) Colocar en la terminal "node index.js input ... que nosotros elijamos ( input1.correcto.txt, input2.correcto.txt, input3.incorrecto.txt, input4.incorrecto.txt)
+<img width="537" height="296" alt="image" src="https://github.com/user-attachments/assets/499d252a-5813-4457-8507-8e956ba8c5e0" />
 
-                 2)Ingresar a la carpeta 
 
 
   
