@@ -4,12 +4,14 @@ En esta oportunidad veremos como actua un analizador, utilizando cierta gramatic
 
   ------A continuación-----
 
-.REQUERIMIENTOS PREVIOS A SU INSTALACIÓN
+1.REQUERIMIENTOS PREVIOS A SU INSTALACIÓN
 
-.INSTALACIÓN 
+2.INSTALACIÓN 
 
-.INSTRUCCIONES DE USO
-                                REQUERIMIENTOS PREVIOS A SU INSTALACIÓN  
+3.INSTRUCCIONES DE USO
+
+-------REQUERIMIENTOS PREVIOS A SU INSTALACIÓN -------
+                              
                                 
         1.Tener JRE (Java Runtime Environment) instalado en su computadora. En caso de no contar con Java preinstalado puede descargarlo e instalarlo desdehttps://www.java.com/en/download/. Se requiere Java 1.8 o superior.
         2.Descargar e Instalar Node.js (LTS) desde la página oficial https://nodejs.org/es. Se requiereNode 16 o superior.
@@ -17,10 +19,9 @@ En esta oportunidad veremos como actua un analizador, utilizando cierta gramatic
         IMPORTANTE: durante la instalación de VS Code, habilita la opción "Add to PATH" para que puedas abrir VS Code desde una terminal con code.
         4.Descargar e instalar Git desde la página oficial https://git-scm.com/downloads. GIT es el controlador de versiones de código que necesitarás para obtener el proyecto ejemplo.
       
-Para verificar que este instalado todo de forma correcta, puedes ejecutar los siguientes comandos en una terminal (Cmd, PowerShell, o terminal en Linux). Una forma de ingresar al cmd  es el teclado insertar "WINDOWS + R"
+a) Para verificar que este instalado todo de forma correcta, puedes ejecutar los siguientes comandos en una terminal (Cmd, PowerShell, o terminal en Linux). Una forma de ingresar al cmd  es el teclado insertar "WINDOWS + R"
 
-
- Ingresar en el cmd
+ -----INGRENSAMOS EN EL CMD----
  
  . node –v (donde nos mostrá la versión) 
  
@@ -32,12 +33,11 @@ Para verificar que este instalado todo de forma correcta, puedes ejecutar los si
  
 
 
- Luego, en Vsco code instalar una extension de "ANTLR4 grammar syntax support"
+b)Luego, en Vsco code instalar una extension de "ANTLR4 grammar syntax support"
  
- Configurar las preferencias de generación de código de ANTLR: ve al menú Archivo/Preferencias/Configuración ( CTL + ,) y busca las preferencias de ANTLR. Baja hasta la sección Antlr4:Generation y edita settings.json. 
- 
+b.1.Configurar las preferencias de generación de código de ANTLR: ve al menú Archivo/Preferencias/Configuración ( CTL + ,) y busca las preferencias de ANTLR. Baja hasta la sección Antlr4:Generation y edita settings.json. 
+.La configuración debe quedar del siguiente modo.
 
-La configuración debe quedar del siguiente modo.
  "antlr4.generation": {
  "alternativeJar": "antlr-4.13.2-complete.jar",
  "mode": "external",
@@ -46,9 +46,9 @@ La configuración debe quedar del siguiente modo.
  "language": "JavaScript",
  "outputDir": "./generated
  
- Guarda el archivo de configuración antes de continuar (CTRL+S)
+IMPORTANTE: Guarda el archivo de configuración antes de continuar (CTRL+S)
 
- -----INSTALACIÓN ----------
+--------INSTALACIÓN -------------
                                          
    1. Clona este repositorio:
 
