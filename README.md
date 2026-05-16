@@ -1,6 +1,6 @@
 />README.md 
 
-En esta oportunidad veremos como actua un analizador, utilizando cierta gramatica asignada por profesores de la Universidad Tecnologica Nacional.
+En esta oportunidad veremos como actúa un ANALIZADOR DE EXPRESIONES ARITMÉTICAS CON ANTLR4 Y JAVASCRIPT, utilizando cierta gramatica asignada por profesores de la Universidad Tecnologica Nacional.
 
   ------A continuación-----
 
@@ -10,7 +10,7 @@ En esta oportunidad veremos como actua un analizador, utilizando cierta gramatic
 
 3.INSTRUCCIONES DE USO.
 
--------REQUERIMIENTOS PREVIOS A SU INSTALACIÓN -------
+1-------REQUERIMIENTOS PREVIOS A SU INSTALACIÓN -------
                               
                                 
         1.Tener JRE (Java Runtime Environment) instalado en su computadora. En caso de no contar con Java preinstalado puede descargarlo e instalarlo desdehttps://www.java.com/en/download/. Se requiere Java 1.8 o superior.
@@ -23,9 +23,14 @@ a) Para verificar que este instalado todo de forma correcta, puedes ejecutar los
 
  -----INGRENSAMOS EN EL CMD----
  
+ -------  node - v   ----------
+          npm -v 
+          code -v 
+          git -v 
 
 <img width="392" height="215" alt="image" src="https://github.com/user-attachments/assets/77ea0417-5e72-4007-a685-eeb5b0d8806d" />
 
+ 
 
 b)Luego, en Vsco code instalar una extension de "ANTLR4 grammar syntax support
 
