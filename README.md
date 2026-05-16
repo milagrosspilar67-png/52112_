@@ -2,7 +2,7 @@
 
 En esta oportunidad veremos como actua un analizador, utilizando cierta gramatica asignada por profesores de la Universidad Tecnologica Nacional.
 
-A continuación:
+  ------A continuación-----
 
 .REQUERIMIENTOS PREVIOS A SU INSTALACIÓN
 
@@ -30,7 +30,7 @@ Para verificar que este instalado todo de forma correcta, puedes ejecutar los si
  
  . git –v (donde nos mostrá la versión) 
  
- <img width="530" height="294" alt="image" src="https://github.com/user-attachments/assets/ac33f5c7-1563-4b1b-8726-58df26c9e2e0" />
+
 
  Luego, en Vsco code instalar una extension de "ANTLR4 grammar syntax support"
  
@@ -56,14 +56,14 @@ La configuración debe quedar del siguiente modo.
       
 Ya teniendo todo instalado de forma correcta (Java, NodeJs, VisualStudioCode , Git).
  
-                   1) Entraremos a la aplicación Visual studio Code 
-                   2) Ve al menú y abrir una nueva terminal en Visual studio Code
+                   1) Entraremos a la aplicación Visual studio Code.
+                   2) Ve al menú y abrir una nueva terminal en Visual studio Code.
         
 <img width="1240" height="727" alt="image" src="https://github.com/user-attachments/assets/52c5c1b2-003a-42fd-9c86-05abccb4955c" />
 
                    3) Ingresar en la terminal : git clone https://github.com/milagrosspilar67-png/52112_.git
 
-                   4) Se clona, por lo tanto ya deberiaspoder ver la carpeta "Mianalizador"
+                   4) Se clona, por lo tanto ya deberias poder ver la carpeta "Mianalizador" que se abre al clonar el repositorio. 
 
 
 ----- INSTRUCCIONES DE USO --------
